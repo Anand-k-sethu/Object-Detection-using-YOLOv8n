@@ -1,4 +1,4 @@
-# Object Detection Model Training and Dataset Preparation
+# Object Detection ML model
 
 ## Project Description
 This project involves preparing the **PASCAL VOC dataset** for training an object detection model using the **YOLO (You Only Look Once)** architecture. The model identifies and classifies various objects in images, including common items like **cars**, **animals**, and **people**. The goal is to build a system that can automatically detect and classify these objects in real-time, making it valuable for applications like surveillance, autonomous driving, and more.
